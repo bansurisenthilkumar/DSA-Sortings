@@ -3,7 +3,7 @@ package Sorting;
 public class SlectionPrac {
 
 	public static void main(String[] args) {
-		
+	
 		int[] arr = {90,100,70,80,60,110};
 		int n = arr.length;
 		for(int i=0;i<n-2;i++) {
