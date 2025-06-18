@@ -3,7 +3,7 @@ package Sorting;
 public class Bubble_sort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int[] arr = {13,46,24,52,20,9};
 		int n = arr.length;
 		for(int i =0;i<n-1;i++) {
