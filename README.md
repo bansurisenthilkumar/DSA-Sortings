@@ -10,4 +10,6 @@ Selection Sort
 
 Bubble Sort
 
+Merge Sort
+
 ( More to come !)
